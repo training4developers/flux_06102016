@@ -7,13 +7,13 @@ Eric Greene - [http://t4d.io](http://t4d.io) - [LinkedIn](https://www.linkedin.c
 ## Schedule
 
 Class:
-- Today: 9am to 5pm
+- Today: 9:15am to 4:30pm
 
 Breaks:
 - Morning: 10:25am - 10:35am
-- Lunch: Noon to 1pm
-- Afternoon #1: 2:15pm-2:25pm
-- Afternoon #2: 3:40pm-3:50pm
+- Lunch: 11:45am - 12:45pm
+- Afternoon #1: 1:55pm - 2:05pm
+- Afternoon #2: 3:15pm - 3:25pm
 
 ## Course Outline
 
